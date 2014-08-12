@@ -1,7 +1,5 @@
 Quickbooks for Zen Cart
 =============
-
-****************************************************************************
     Copyright (C) 2014  Paul Williams/IWL Entertainment
 
     This program is free software: you can redistribute it and/or modify
@@ -16,7 +14,6 @@ Quickbooks for Zen Cart
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-****************************************************************************
 
 About
 =====
